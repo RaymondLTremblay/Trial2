@@ -1,19 +1,17 @@
 {
-    "id": "4D5C2760",
-    "path": "~/Library/CloudStorage/Dropbox/GitHub_Dropbox_Drive/Bookdowns/TRIAL/01-intro.Rmd",
-    "project_path": "01-intro.Rmd",
+    "id": "6CACF04A",
+    "path": "~/Library/CloudStorage/Dropbox/GitHub_Dropbox_Drive/Bookdowns/TRIAL/02-cross-refs.Rmd",
+    "project_path": "02-cross-refs.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1689037036233.0,
+    "created": 1689037340394.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 6,
     "properties": {
         "source_window_id": "",
-        "Source": "Source",
-        "cursorPosition": "8,24",
-        "scrollLine": "0"
+        "Source": "Source"
     },
     "folds": "",
     "lastKnownWriteTime": 1689036571,
