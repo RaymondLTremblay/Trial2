@@ -1,19 +1,19 @@
 {
-    "id": "0230C631",
-    "path": "~/Library/CloudStorage/Dropbox/GitHub_Dropbox_Drive/Bookdowns/TRIAL/README.md",
-    "project_path": "README.md",
-    "type": "markdown",
+    "id": "4D5C2760",
+    "path": "~/Library/CloudStorage/Dropbox/GitHub_Dropbox_Drive/Bookdowns/TRIAL/01-intro.Rmd",
+    "project_path": "01-intro.Rmd",
+    "type": "r_markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1689036573762.0,
+    "created": 1689037036233.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 5,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "4,88",
-        "scrollLine": "1"
+        "cursorPosition": "11,0",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1689036571,
